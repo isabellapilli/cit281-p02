@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/isabellapilli/cit281-p02/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## PROJECT 2
 
 ```markdown
-Syntax highlighted code block
+Learning Objectives:
 
-# Header 1
-## Header 2
-### Header 3
+1. Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control
+2. Gain experience writing and executing non-web server Node.js JavaScript code
+3. Practice refactoring JavaScript code
 
-- Bulleted
-- List
+Overview: 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)
+2. Refactor the JavaScript program from the previous project to practice using git and practice refactoring
+3. Use git via VSCode
+  a. Create and use a .gitignore file
+  b. Diff split screen
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Technologies Used:
+- VS Code
+- Terminal
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isabellapilli/cit281-p02/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### What I Learned:
+In this project I was able to create a few different functions. The first *function getRandomLetter()* returned a single, random, lowercase letter, the second *function getRandomString(minLength, maxLength)* returned a random length string, and the last *function getSortedString(string)* returned a string in ascending order. I was also able to experiment with function expressions and anonymous functions, and learn more about staging files as well.
 
-### Support or Contact
+### Files from Project 1!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[ss1](p2-vscode-diff.png)
+[ss2](p2-random-commits.txt)
+[ss3](p2-random-files.txt)
